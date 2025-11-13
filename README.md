@@ -1,5 +1,33 @@
-This repository is dedicated to learning and applying C++ in the context of Embedded Systems.
-<br>
-It covers everything from fundamental C++ syntax and OOP principles to practical examples that reflect firmware-level programming patterns.
-<br>
-The goal is to help embedded developers understand how C++ can improve code reusability, scalability, and maintainability through object-oriented design.
+# 🚀 C++ Programming Repository
+
+Welcome to my **C++ Programming** repository!  
+This repo is a collection of C++ programs, notes, and small projects that cover everything from basics to object-oriented and embedded-level programming.
+
+---
+
+## 📘 About
+This repository is designed to:
+- Strengthen C++ fundamentals
+- Practice object-oriented concepts
+- Prepare for embedded firmware interviews
+- Provide reusable examples and templates
+
+---
+
+## 🧩 Topics Covered
+
+### 🏁 Basics
+- Input/Output
+- Control Statements
+- Functions and Recursion
+- Arrays and Strings
+
+### 🧱 Object-Oriented Programming
+- Classes and Objects
+- Constructors & Destructors
+- Inheritance and Polymorphism
+- Operator Overloading
+- Templates
+- Exception Handling
+
+
